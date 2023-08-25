@@ -1,0 +1,57 @@
+* {
+    box-sizing: border-box;
+}
+
+h3 {
+    margin-left: 200px;
+    margin-top: -60px;
+}
+
+
+img {
+    margin-top: -15px;
+}
+
+.col-md-10 {
+    margin-top: 70px;
+}
+
+input {
+    width: 500px;
+}
+
+#row {
+    margin-left: -11px;
+    margin-top: 70px;
+    border: 1px solid black;
+}
+
+#mate {
+    border: 1px solid black;
+    background-color: rgb(235, 68, 68);
+}
+
+.mate {
+    border: 1px solid black;
+    background-color: rgb(118, 118, 118);
+
+}
+
+#col {
+    margin-left: 500px;
+    margin-top: -140px;
+}
+
+#container {
+        background-color: rgb(118, 118, 118);
+
+}
+
+#container2 {
+    background-color: rgb(255, 255, 255);
+
+}
+
+.container {
+    border: 2px solid black;
+}
